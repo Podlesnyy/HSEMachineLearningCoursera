@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>e3b9ed2c-bb69-43b7-9ab9-d1a9a7515cf7</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>Week1Titanik.py</StartupFile>
+    <StartupFile>Week1StatementImportance.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -22,6 +22,9 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="Week1StatementImportance.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="Week1Titanik.py" />
   </ItemGroup>
   <ItemGroup>
